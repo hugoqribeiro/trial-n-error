@@ -1,0 +1,18 @@
+﻿[$RootKey$\Generators]
+[$RootKey$\Generators\{fae04ec1-301f-11d3-bf4b-00c04f79efbc}]
+[$RootKey$\Generators\{fae04ec1-301f-11d3-bf4b-00c04f79efbc}\MySpecialCodeGenerator]
+@="Special code generator."
+"CLSID"="{81CBE30D-DDA6-4B9D-BEFB-0B3841C1B92B}"
+"GeneratesDesignTimeSource"=dword:00000001
+[$RootKey$\Generators\{9A19103F-16F7-4668-BE54-9A1E7A4F7556}]
+[$RootKey$\Generators\{9A19103F-16F7-4668-BE54-9A1E7A4F7556}\MySpecialCodeGenerator]
+@="Special code generator."
+"CLSID"="{81CBE30D-DDA6-4B9D-BEFB-0B3841C1B92B}"
+"GeneratesDesignTimeSource"=dword:00000001
+[$RootKey$\CLSID]
+[$RootKey$\CLSID\{81CBE30D-DDA6-4B9D-BEFB-0B3841C1B92B}]
+@="Special code generator."
+"Class"="MySpecialPackage.MySpecialCodeGenerator"
+"InprocServer32"="$WinDir$\SYSTEM32\MSCOREE.DLL"
+"ThreadingModel"="Both"
+"CodeBase"="$PackageFolder$\MySpecialPackage.dll"

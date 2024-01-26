@@ -388,7 +388,3 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
-
-# Lithium SDK text templates
-
-**/GeneratedCode/TextTemplates/
